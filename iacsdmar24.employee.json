@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "660fc178df97fee2729f990a"
+  },
+  "empno": 111,
+  "ename": "Deepali Vaidya",
+  "sal": 40000,
+  "dept": {
+    "deptno": 12,
+    "dname": "Hr",
+    "dloc": "Mumbai"
+  },
+  "Desg": "Analyst",
+  "mgr": {
+    "name": "Satish",
+    "num": 111
+  },
+  "project": [
+    {
+      "name": "Project-1",
+      "Hrs": 4
+    },
+    {
+      "name": "Project-2",
+      "Hrs": 4
+    },
+    {
+      "name": "project-3,Hrs:2"
+    },
+    {
+      "name": "project-4,Hrs:2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660fc39bdf97fee2729f990b"
+  },
+  "empno": 112,
+  "ename": "Smriti Mandhana",
+  "sal": 60000,
+  "dept": {
+    "deptno": 13,
+    "dname": "Administration",
+    "dloc": "Bangalore"
+  },
+  "Desg": "MANAGING DIRECTOR",
+  "mgr": {
+    "name": "Kishor",
+    "num": 112
+  },
+  "project": [
+    {
+      "name": "Project-1",
+      "Hrs": 4
+    },
+    {
+      "name": "Project-2",
+      "Hrs": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660fc432df97fee2729f990c"
+  },
+  "empno": 113,
+  "ename": "Harmanpreet Kaur",
+  "sal": 160000,
+  "dept": {
+    "deptno": 14,
+    "dname": "Operations Manager",
+    "dloc": "KOLKATA"
+  },
+  "Desg": "Secretary",
+  "mgr": {
+    "name": "Virat",
+    "num": 113
+  },
+  "project": [
+    {
+      "name": "Project-1",
+      "Hrs": 6
+    },
+    {
+      "name": "Project-2",
+      "Hrs": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660fc542df97fee2729f990d"
+  },
+  "empno": 114,
+  "ename": "Jemimah Rodrigous",
+  "sal": 700000,
+  "dept": {
+    "deptno": 15,
+    "dname": "Accounts",
+    "dloc": "DELHI"
+  },
+  "Desg": "Director",
+  "mgr": {
+    "name": "Rohit",
+    "num": 114
+  },
+  "project": [
+    {
+      "name": "Project-1",
+      "Hrs": 6
+    },
+    {
+      "name": "Project-2",
+      "Hrs": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660fc59adf97fee2729f990e"
+  },
+  "empno": 115,
+  "ename": "Deepti Sharma",
+  "sal": 770000,
+  "dept": {
+    "deptno": 16,
+    "dname": "Finance",
+    "dloc": "Chennai"
+  },
+  "Desg": "Administrative Officer",
+  "mgr": {
+    "name": "RajuMali",
+    "num": 115
+  },
+  "project": [
+    {
+      "name": "Project-1",
+      "Hrs": 5
+    },
+    {
+      "name": "Project-2",
+      "Hrs": 7
+    }
+  ]
+}]
